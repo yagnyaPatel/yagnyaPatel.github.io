@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+    background: linear-gradient(141deg, #0fb8ad , #1fc8db , #2cb5e8 );
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
