@@ -1,5 +1,5 @@
 body {
-    margin: 60px auto;
+    margin: 100%;
     width: 70%;
     background-image: linear-gradient(rgb(24, 99, 121), rgb(3, 10, 13) 85%);
 
@@ -16,7 +16,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
 }
 a:hover {
     text-decoration: underline;
@@ -28,10 +28,10 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #000000;
+    color: #ffffff;
 }
 footer {
-    border-top: 1px solid #000000;
+    border-top: 1px solid #ffffff;
     font-size: .8em;
 }
 
