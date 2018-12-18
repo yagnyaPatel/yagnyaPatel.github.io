@@ -1,8 +1,12 @@
+html {
+    height: 100%;
+}
 body {
-    margin: 100%;
-    width: 70%;
+    height: 100%;
+    margin: 0;
     background-image: linear-gradient(rgb(24, 99, 121), rgb(3, 10, 13) 85%);
-
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -35,8 +39,8 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
