@@ -78,8 +78,8 @@ body,html{
     color:#444452;
     font-family:Apercu,"Source Sans Pro",system,system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;
     line-height:1.5;
-    width:100%
-    z-index:-2;
+    width:100%;
+    z-index: 0;
 }
 body.night,html.night{
     background-color:#171c28;
@@ -1065,5 +1065,5 @@ strong{
     display: block;
     top: 0;
     left: 0;
-	z-index: -1;
+	z-index: 1;
 }
